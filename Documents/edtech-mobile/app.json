@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "LearnCode",
+    "slug": "edtech-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "sdkVersion": "54.0.0",
+    "platforms": ["ios", "android"],
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": false },
+    "android": { "adaptiveIcon": { "backgroundColor": "#000000" } }
+  }
+}

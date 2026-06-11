@@ -1,0 +1,32 @@
+export const colors = {
+  web: {
+    primary: "#2563eb",
+    softBg: "rgba(59,130,246,0.08)",
+    border: "rgba(59,130,246,0.2)",
+    text: "#60a5fa",
+    priceColor: "#93c5fd",
+    gradient: ["#1d4ed8", "#3b82f6", "#60a5fa"],
+    btnHover: "#1d4ed8",
+  },
+  mobile: {
+    primary: "#059669",
+    softBg: "rgba(16,185,129,0.08)",
+    border: "rgba(16,185,129,0.2)",
+    text: "#34d399",
+    priceColor: "#6ee7b7",
+    gradient: ["#065f46", "#059669", "#34d399"],
+    btnHover: "#047857",
+  },
+  black: "#000000",
+  card: "#111111",
+  card2: "#0a0a0a",
+  border: "rgba(255,255,255,0.07)",
+  divider: "rgba(255,255,255,0.06)",
+  t: {
+    primary: "#f1f5f9",
+    secondary: "#94a3b8",
+    muted: "#475569",
+    faint: "#334155",
+    body: "#64748b",
+  },
+};
